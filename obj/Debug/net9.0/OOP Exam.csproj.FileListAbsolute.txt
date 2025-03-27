@@ -28,3 +28,18 @@ D:\.Net\CAT\Tasks\Beginner-Exam\OOP Exam\obj\Debug\net9.0\refint\OOP Exam.dll
 D:\.Net\CAT\Tasks\Beginner-Exam\OOP Exam\obj\Debug\net9.0\OOP Exam.pdb
 D:\.Net\CAT\Tasks\Beginner-Exam\OOP Exam\obj\Debug\net9.0\OOP Exam.genruntimeconfig.cache
 D:\.Net\CAT\Tasks\Beginner-Exam\OOP Exam\obj\Debug\net9.0\ref\OOP Exam.dll
+D:\.Net\CAT\Tasks\Beginner-Exam\bin\Debug\net9.0\OOP Exam.exe
+D:\.Net\CAT\Tasks\Beginner-Exam\bin\Debug\net9.0\OOP Exam.deps.json
+D:\.Net\CAT\Tasks\Beginner-Exam\bin\Debug\net9.0\OOP Exam.runtimeconfig.json
+D:\.Net\CAT\Tasks\Beginner-Exam\bin\Debug\net9.0\OOP Exam.dll
+D:\.Net\CAT\Tasks\Beginner-Exam\bin\Debug\net9.0\OOP Exam.pdb
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\OOP Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\OOP Exam.AssemblyInfoInputs.cache
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\OOP Exam.AssemblyInfo.cs
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\OOP Exam.csproj.CoreCompileInputs.cache
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\OOP Exam.sourcelink.json
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\OOP Exam.dll
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\refint\OOP Exam.dll
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\OOP Exam.pdb
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\OOP Exam.genruntimeconfig.cache
+D:\.Net\CAT\Tasks\Beginner-Exam\obj\Debug\net9.0\ref\OOP Exam.dll
