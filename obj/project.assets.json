@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net\\CAT\\Tasks\\Beginner-Exam\\OOP Exam\\OOP Exam.csproj",
+      "projectUniqueName": "D:\\.Net\\CAT\\Tasks\\Beginner-Exam\\OOP Exam.csproj",
       "projectName": "OOP Exam",
-      "projectPath": "D:\\.Net\\CAT\\Tasks\\Beginner-Exam\\OOP Exam\\OOP Exam.csproj",
+      "projectPath": "D:\\.Net\\CAT\\Tasks\\Beginner-Exam\\OOP Exam.csproj",
       "packagesPath": "C:\\Users\\karim_gu2i2tx\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net\\CAT\\Tasks\\Beginner-Exam\\OOP Exam\\obj\\",
+      "outputPath": "D:\\.Net\\CAT\\Tasks\\Beginner-Exam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
